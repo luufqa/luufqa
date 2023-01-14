@@ -1,3 +1,10 @@
+<div id="header" align="center">
+  <img src="https://img.freepik.com/premium-vector/pixel-art-park-bench-and-square-urban-furniture-vector-icon-for-8bit-game-on-white-background_360488-893.jpg" width="100"/>
+</div>
+
+
+
+
 ### Hi there 👋
 
 <!--
