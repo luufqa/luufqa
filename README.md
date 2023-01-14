@@ -4,13 +4,13 @@
 
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://vk.com/luufqa">
     <img src="https://img.shields.io/badge/vkontakte-blue?style=for-the-badge&logoColor=blue" alt="VK Badge"/>
   </a>
   <a href="https://instagram/ndluuf">
-    <img src="https://img.shields.io/badge/%D0%98%D0%BD%D1%81%D1%82%D0%B0%D0%B3%D1%80%D0%B0%D0%BC-red" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logoColor=red" alt="Instagram Badge"/>
   </a>
 </div>
 
