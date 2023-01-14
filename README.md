@@ -15,7 +15,7 @@
 </div>
 
 <div id="view_count" align="center">
-  <img src="https://komarev.com/ghpvc/?username=luufqa&style=flat-square&color=9cf" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=luufqa&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1 align="center">
