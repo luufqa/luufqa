@@ -14,6 +14,9 @@
   </a>
 </div>
 
+<div id="view_count" align="center">
+  <img src="https://komarev.com/ghpvc/?username=luufqa&style=flat-square&color=blue" alt=""/>
+</div>
 
 ### Hi there 👋
 
