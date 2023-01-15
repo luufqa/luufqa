@@ -1,7 +1,7 @@
 <div align="left">
   <div id="header">
     <img src="https://img.freepik.com/premium-vector/pixel-art-park-bench-and-square-urban-furniture-vector-icon-for-8bit-game-on-white-background_360488-893.jpg" width="100"/>
-    <img src="https://komarev.com/ghpvc/?username=luufqa&style=flat-square&color=blue" alt="viewcount" width="70"/>
+    <img src="https://komarev.com/ghpvc/?username=luufqa&style=flat-square&color=blue" alt="viewcount" width="80"/>
     </div>
   </div>
   
