@@ -5,6 +5,7 @@
     .padding_r {
       padding: 50px 10px 10px 30px;
     }
+    </style>
     <img class="padding_r" src="https://komarev.com/ghpvc/?username=luufqa&style=flat-square&color=blue" alt=""/>
     </div>
   </div>
