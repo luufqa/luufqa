@@ -20,8 +20,9 @@
 
 <div align="left">
   <h2>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Hey there!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  
   <h2><br>
 I'm beginning QA Enginner from Russia. I want to realize myself as a junior quality assurance engineer with an emphasis on automation in Python. Currently, I'm working for get.phototime.pro, remote support specialist with part-time job. Now, i delve into testing and in search of work.
 </div>
