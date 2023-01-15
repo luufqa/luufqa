@@ -2,6 +2,7 @@
     <img src="https://img.freepik.com/premium-vector/pixel-art-park-bench-and-square-urban-furniture-vector-icon-for-8bit-game-on-white-background_360488-893.jpg" width="100"/>
     <img src="https://komarev.com/ghpvc/?username=luufqa&style=flat-square&color=blue" alt="viewcount" width="80"/>
 </div>
+
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/luufqa">
     <img src="https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,7 +19,7 @@
   Hey there!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h2>
-I'm beginning QA Enginner from Russia. I want to realize myself as a junior quality assurance engineer with an emphasis on automation in Python. Currently, I'm working for get.phototime.pro, remote support specialist with part-time job. Now, i delve into testing and in search of work.
+I'm beginning QA Enginner from 📍Russia. I want to realize myself as a 😎junior quality assurance engineer with an emphasis on automation in 🐍Python. Currently, I'm working for get.phototime.pro, 💻remote support specialist with part-time job. Now, i delve into testing and in 🔥search of work.
 </div>
 
 
