@@ -1,8 +1,14 @@
-<div id="header" align="center">
-  <img src="https://img.freepik.com/premium-vector/pixel-art-park-bench-and-square-urban-furniture-vector-icon-for-8bit-game-on-white-background_360488-893.jpg" width="100"/>
+<div align="left">
+  <div id="header">
+    <img src="https://img.freepik.com/premium-vector/pixel-art-park-bench-and-square-urban-furniture-vector-icon-for-8bit-game-on-white-background_360488-893.jpg" width="100"/>
+  </div>
+  <div id="view_count" align="center">
+    <img src="https://komarev.com/ghpvc/?username=luufqa&style=flat-square&color=blue" alt=""/>
+  </div>
 </div>
 
-<div id="badges" align="center">
+
+<div id="badges" align="left">
   <a href="https://www.linkedin.com/in/luufqa">
     <img src="https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -14,9 +20,7 @@
   </a>
 </div>
 
-<div id="view_count" align="center">
-  <img src="https://komarev.com/ghpvc/?username=luufqa&style=flat-square&color=blue" alt=""/>
-</div>
+
 
 <div align="left">
   <h2>
