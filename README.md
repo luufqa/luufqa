@@ -10,7 +10,7 @@
   <a href="https://vk.com/luufqa">
     <img src="https://img.shields.io/badge/vkontakte-blue?style=for-the-badge&logoColor=blue" alt="VK Badge"/>
   </a>
-  <a href="https://instagram/ndluuf">
+  <a href="https://instagram.com/ndluuf">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logoColor=red" alt="Instagram Badge"/>
   </a>
 </div>
