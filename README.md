@@ -1,12 +1,7 @@
 <div align="left">
   <div id="header">
     <img src="https://img.freepik.com/premium-vector/pixel-art-park-bench-and-square-urban-furniture-vector-icon-for-8bit-game-on-white-background_360488-893.jpg" width="100"/>
-    <style>
-    .padding_r {
-      padding: 50px 10px 10px 30px;
-    }
-    </style>
-    <img class="padding_r" src="https://komarev.com/ghpvc/?username=luufqa&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=luufqa&style=flat-square&color=blue" alt="viewcount" width="70"/>
     </div>
   </div>
   
