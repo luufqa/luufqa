@@ -1,13 +1,7 @@
 <div align="left">
-  <div id="header">
     <img src="https://img.freepik.com/premium-vector/pixel-art-park-bench-and-square-urban-furniture-vector-icon-for-8bit-game-on-white-background_360488-893.jpg" width="100"/>
     <img src="https://komarev.com/ghpvc/?username=luufqa&style=flat-square&color=blue" alt="viewcount" width="80"/>
-    </div>
-  </div>
-  
 </div>
-
-
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/luufqa">
     <img src="https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,9 +13,6 @@
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logoColor=red" alt="Instagram Badge"/>
   </a>
 </div>
-
-
-
 <div align="left">
   <h2>
   Hey there!
