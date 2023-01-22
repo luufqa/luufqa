@@ -39,14 +39,16 @@ I'm beginning QA Enginner from 📍Russia. I want to realize myself as a 😎jun
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
-<div align="left"
-  <img src="https://user-images.githubusercontent.com/122687735/213917551-4da54b0a-bec8-4762-9bbd-067b00d5cbae.gif" title="bu1" alt="bug1" width="50" height="50"/>
-
-  
-  <h2>
-  VK Testers profile
+<div>  
+  <h2 align="left">
+    VK Testers profile
+    <img src="https://user-images.githubusercontent.com/122687735/213919066-2bed8c7b-9b0d-4ee0-a8e5-209688e620e9.gif" alt="bugs" width="35" height="35"/> 
   </h2>
 </div>
+<div>
+    <img src="https://user-images.githubusercontent.com/122687735/213919443-93230599-fcf1-41da-b4ef-9f2915d52027.jpg" alt="result" width="700"/>
+</div>
+
 
 
  
