@@ -37,7 +37,15 @@ I'm beginning QA Enginner from 📍Russia. I want to realize myself as a 😎jun
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="andstudio"  alt="andstudio" width="40" height="40"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" title="swagger" alt="swagger" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+</div>
+<div align="left"
+  <img src="https://user-images.githubusercontent.com/122687735/213917551-4da54b0a-bec8-4762-9bbd-067b00d5cbae.gif" title="bu1" alt="bug1" width="50" height="50"/>
+
+  
+  <h2>
+  VK Testers profile
+  </h2>
 </div>
 
 
