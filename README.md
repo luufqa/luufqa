@@ -47,7 +47,7 @@ I'm beginning QA Enginner from 📍Russia. I want to realize myself as a 😎jun
   </h2>
 </div>
 <div>
-    <img src="https://user-images.githubusercontent.com/122687735/213919443-93230599-fcf1-41da-b4ef-9f2915d52027.jpg" alt="result" width="700"/>
+    <img src="https://user-images.githubusercontent.com/122687735/214655231-cd83982b-bb25-43ae-b475-120423a39dde.png" alt="result" width="700"/>
 </div>
 
 
