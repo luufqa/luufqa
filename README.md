@@ -1,6 +1,7 @@
 <div align="left">
     <img src="https://img.freepik.com/premium-vector/pixel-art-park-bench-and-square-urban-furniture-vector-icon-for-8bit-game-on-white-background_360488-893.jpg" width="100"/>
     <img src="https://komarev.com/ghpvc/?username=luufqa&style=flat-square&color=blue" alt="viewcount" width="80"/>
+    <img align="right" src="https://www.codewars.com/users/luufqa/badges/micro" alt="cdwrs"/>
 </div>
 
 <div id="badges" align="left">
@@ -48,7 +49,6 @@ I'm beginning QA Enginner from 📍Russia. I want to realize myself as a 😎jun
 <div>
     <img src="https://user-images.githubusercontent.com/122687735/213919443-93230599-fcf1-41da-b4ef-9f2915d52027.jpg" alt="result" width="700"/>
 </div>
-
 
 
  
