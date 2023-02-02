@@ -40,15 +40,7 @@ I'm beginning QA Enginner from 📍Russia. I want to realize myself as a 😎jun
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" title="postgresql" alt="pstgresql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
-<div>  
-  <h2 align="left">
-    VK Testers profile
-    <img src="https://user-images.githubusercontent.com/122687735/213919066-2bed8c7b-9b0d-4ee0-a8e5-209688e620e9.gif" alt="bugs" width="35" height="35"/> 
-  </h2>
-</div>
-<div>
-    <img src="https://user-images.githubusercontent.com/122687735/214655231-cd83982b-bb25-43ae-b475-120423a39dde.png" alt="result" width="700"/>
-</div>
+
 
 
  
