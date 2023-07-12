@@ -11,7 +11,7 @@
   <a href="https://vk.com/luufqa">
     <img src="https://img.shields.io/badge/vkontakte-blue?style=for-the-badge&logoColor=blue" alt="VK Badge"/>
   </a>
-  <a href="https://www.instagram.com/ndluuf/">
+  <a href="https://www.instagram.com/luufqa/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logoColor=red" alt="Instagram Badge"/>
   </a>
 </div>
@@ -20,7 +20,7 @@
   Hey there!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h2>
-I'm beginning QA Enginner from 📍Russia. I want to realize myself as a 😎junior quality assurance engineer with an emphasis on automation in 🐍Python. Currently, I'm working for get.phototime.pro, 💻remote support specialist with part-time job. Now, i delve into testing and in 🔥search of work.
+I'm beginning QA Enginner from 📍Russia. I want to realize myself as a 😎junior quality assurance engineer with an emphasis on automation in 🐍Python. Currently, I'm working for get.phototime.pro, 💻remote support specialist with part-time job and practical in testing. Passed training in SkillFactory and received a certificate "Manual QA Engineer". Now, i delve into testing and in 🔥search of work.
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
