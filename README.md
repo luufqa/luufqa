@@ -20,7 +20,7 @@
   Hey there!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h2>
-Junior QA Engineer from 📍Russia. I practice myself as a test automation in 🐍Python. Currently, I'm working for get.phototime.pro, 💻remote support specialist with part-time job and practical in testing. Passed training in SkillFactory and received a certificate "Manual QA Engineer". Studying at Yandex-Education "Test Automation in Python", Pytest and Selenium. I also practice on VKontakte and try to improve my level of knowledge (my position in VK Testers #6) - more than 320+ accepted reports. Now, i delve into testing and in 🔥search of jobs.
+Junior QA Engineer from 📍Russia. I practice myself as a test automation in 🐍Python. Currently, I'm working for get.phototime.pro, 💻remote support specialist with part-time job and practical in testing. Passed training in SkillFactory and received a certificate "Manual QA Engineer", Postman, API, base SQL. Studying at Yandex-Education "Test Automation in Python", Pytest and Selenium. I also practice on VKontakte and try to improve my level of knowledge (my position in VK Testers #6) - more than 320+ accepted reports. Now, i delve into testing and in 🔥search of jobs.
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
