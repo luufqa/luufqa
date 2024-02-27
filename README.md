@@ -20,7 +20,10 @@
   Hey there!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h2>
-Junior QA Engineer from 📍Russia. I practice myself as a test automation in 🐍Python. Currently, I'm working for get.phototime.pro, 💻remote support specialist with part-time job and practical in testing. Passed training in SkillFactory and received a certificate "Manual QA Engineer", Postman, API, base SQL. Studying at Yandex-Education "Test Automation in Python", Pytest and Selenium. I also practice on VKontakte and try to improve my level of knowledge (my position in VK Testers #6) - more than 320+ accepted reports. Now, i delve into testing and in 🔥search of jobs.
+QA Automation Engineer (Selenium, Python) from 📍Russia. I write Unit / API / UI autotests in 🐍Python. I know the necessary base: Selenium, Pytest, UI, XPATH, POM, Git, Allure, API, Postman, Swagger, Charles, Mock, SQL. Practical experience in manual testing. Currently, I'm working for get.phototime.pro, 💻remote support specialist with part-time job and practical in testing. 
+1) Completed training on the platform "SkillFactory" and received a certificate "Manual QA Engineer". 
+2) Completed training on the platform "Yandex-Education" and received a certificate "QA Automation Engineer (Selenium, Python)". 
+Participated in the VK Testers program. Conducted regression testing and now in 🔥search of jobs.
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
