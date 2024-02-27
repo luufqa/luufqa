@@ -20,7 +20,7 @@
   Hey there!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h2>
-QA Automation Engineer (Selenium, Python) from 📍Russia. I write Unit / API / UI autotests in 🐍Python. I know the necessary base: Selenium, Pytest, UI, XPATH, POM, Git, Allure, API, Postman, Swagger, Charles, Mock, SQL. Practical experience in manual testing. Currently, I'm working for get.phototime.pro, 💻remote support specialist with part-time job and practical in testing.<br/>
+QA Automation Engineer (Selenium, Python) from 📍Russia. I write Unit / API / UI autotests in 🐍Python. I know the necessary base: Selenium, Pytest, UI, XPATH, POM, Git, Allure, API, Postman, Swagger, Charles, Mock, SQL.<br/> Practical experience in manual testing. Currently, I'm working for get.phototime.pro, 💻remote support specialist with part-time job and practical in testing.<br/>
 1) Completed training on the platform "SkillFactory" and received a certificate "Manual QA Engineer".<br/>
 2) Completed training on the platform "Yandex-Education" and received a certificate "QA Automation Engineer (Selenium, Python)".<br/>
 Participated in the VK Testers program. Conducted regression testing and now in 🔥search of jobs.
