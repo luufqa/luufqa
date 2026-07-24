@@ -1,6 +1,6 @@
 # Alexey Pshenitsyn
 
-**QA Engineer | Manual Testing | Python & Playwright Automation**
+**QA Engineer | Manual & Test Automation | Python | Playwright | REST API | SQL | CI/CD | Docker | AI**
 
 I work on quality assurance for enterprise web services, covering manual testing, REST APIs, databases, release validation, and test automation. I enjoy turning complex workflows into clear test scenarios and reliable checks.
 
