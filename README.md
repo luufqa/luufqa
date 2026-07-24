@@ -9,7 +9,7 @@ I work on quality assurance for enterprise web services, covering manual testing
 - **Testing:** functional, integration, regression, smoke, exploratory, acceptance, UI/UX
 - **API & data:** REST API, Postman, Swagger, PostgreSQL, MSSQL, DBeaver
 - **Automation:** Python, Playwright, Pytest, Allure, Selenium, Docker
-- **Tools & delivery:** DevTools, Git, GitLab, Bitbucket, CI pipelines, SSH
+- **Tools & delivery:** DevTools, Git, GitLab, Bitbucket, CI/CD, SSH
 
 ## A few facts
 
