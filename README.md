@@ -1,4 +1,4 @@
-# Alexey Pshenitsyn
+# Aleksei Pshenitsyn
 
 **QA Engineer | Manual & Test Automation | Python | Playwright | REST API | SQL | CI/CD | Docker | AI**
 
