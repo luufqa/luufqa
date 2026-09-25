@@ -14,8 +14,10 @@ I work on quality assurance for enterprise web services, covering manual testing
 ## A few facts
 
 - Sole QA Engineer for 10+ enterprise web services
-- Built 300+ UI, API, and E2E automated tests with Python and Playwright
 - Experienced in release validation and deployment through CI pipelines
+- Has implemented UI/API and E2E test automation using Python and Playwright and explores practical
+approaches to using artificial intelligence to support testing.
+
 
 ## Links
 
